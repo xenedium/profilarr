@@ -1,0 +1,2 @@
+# profilarr
+Media Library config
