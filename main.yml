@@ -1,0 +1,5 @@
+- name: X
+  hosts: all
+  tasks:
+    - name: Y
+      ping:
